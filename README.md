@@ -21,3 +21,8 @@ You can see in the next example how to return a function without executing it an
 Teacher created a code similar a switch/case using **match**:
 
 ![match](images/match.png)
+
+
+# Decorator
+
+![decorator definition](images/decorator-definition.png)

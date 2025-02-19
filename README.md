@@ -17,3 +17,7 @@ Also teacher said that we can cascade function inside another function in more l
 You can see in the next example how to return a function without executing it and how to pass parameters to it:
 
 ![returning a function](images/returning-a-function.png)
+
+Teacher created a code similar a switch/case using **match**:
+
+![match](images/match.png)

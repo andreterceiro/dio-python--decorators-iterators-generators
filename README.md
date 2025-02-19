@@ -70,3 +70,6 @@ another_function()
 You can see in the next image that the output is still the same:
 
 ![result of execution - decorators - syntax suggar](images/result-execution-decorators.png)
+
+
+[class](https://web.dio.me/course/45074cc8-2bab-4d9e-bb95-7fb7c99c29d2/learning/0418aa57-39a3-4f7b-8717-acd5266477a6?autoplay=1&back=%2Ftrack%2Fformacao-python-fundamentals&moduleId=undefined&tab=undefined) - 2:33 (current stage in the video)

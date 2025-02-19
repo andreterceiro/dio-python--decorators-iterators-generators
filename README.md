@@ -26,3 +26,5 @@ Teacher created a code similar a switch/case using **match**:
 # Decorator
 
 ![decorator definition](images/decorator-definition.png)
+
+![decorator - code](images/decorator-code.png)

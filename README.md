@@ -11,3 +11,5 @@ Teacher also said that we can return a function in another function without exec
 Teacher also showed that we can have a function inside another function:
 
 ![function inside another function](images/function-inside-another-function.png)
+
+Also teacher said that we can cascade function inside another function in more levels.

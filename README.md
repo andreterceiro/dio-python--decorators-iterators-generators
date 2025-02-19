@@ -66,3 +66,7 @@ def another_function():
 
 another_function()
 ```
+
+You can see in the next image that the output is still the same:
+
+![result of execution - decorators - syntax suggar](images/result-execution-decorators.png)
